@@ -31,8 +31,19 @@ touch .gitignore
 <img width="345" alt="image" src="https://user-images.githubusercontent.com/52627259/227782454-a9da8fcf-861f-493c-91ae-63a1ff63b70c.png">
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/52627259/227782501-2c70ab83-cd1f-4e21-a890-1b63cc72769f.png">
 
+# Git_part_2
+### Created directory “task1 – git pracrice I” and created empty readme.txt file.
+<img width="437" alt="image" src="https://user-images.githubusercontent.com/52627259/227783732-2f51bee1-71ee-4f2e-b181-5c40bbb26881.png">
 
+### Made init commit
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/52627259/227784659-5e73176f-cb6e-4035-836b-247051a2961b.png">
+<img width="492" alt="image" src="https://user-images.githubusercontent.com/52627259/227785376-58ebe92b-2406-4e45-a893-98bb4cf63824.png">
 
+### Created develop branch and checkout on it
+<img width="431" alt="image" src="https://user-images.githubusercontent.com/52627259/227786303-d10ee1d6-7c1c-496b-8c90-ddce8d3e3bdc.png">
+
+### Created index.html empty file. Commited
+<img width="443" alt="image" src="https://user-images.githubusercontent.com/52627259/227786742-b5f20052-89ca-4ea4-8a7f-72a5b017d603.png">
 
 
 
