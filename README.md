@@ -24,6 +24,12 @@ ssh-keygen -t rsa –C “povarchukdima007@gmail.com"
 ### Cloned project to your workstation...
 <img width="466" alt="image" src="https://user-images.githubusercontent.com/52627259/227778407-443a1c71-01aa-4e3d-b221-7ffb912a7f5a.png">
 
+### Created .gitignore files
+touch .gitignore
+
+<img width="446" alt="image" src="https://user-images.githubusercontent.com/52627259/227782060-9568a11f-98ea-430a-aecc-6478263ac63f.png">
+<img width="345" alt="image" src="https://user-images.githubusercontent.com/52627259/227782454-a9da8fcf-861f-493c-91ae-63a1ff63b70c.png">
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/52627259/227782501-2c70ab83-cd1f-4e21-a890-1b63cc72769f.png">
 
 
 
