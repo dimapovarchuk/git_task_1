@@ -45,6 +45,17 @@ touch .gitignore
 ### Created index.html empty file. Commited
 <img width="443" alt="image" src="https://user-images.githubusercontent.com/52627259/227786742-b5f20052-89ca-4ea4-8a7f-72a5b017d603.png">
 
+### Created branch with name “images”. Checkouted on it. Added images folder with some images inside it. Commited.
+<img width="491" alt="image" src="https://user-images.githubusercontent.com/52627259/227880646-cc6cf155-4f23-4cc5-9198-0e97b71c1715.png">
+
+### Changed index.html. Added images source inside it. Commited.
+<img width="461" alt="image" src="https://user-images.githubusercontent.com/52627259/227885027-911abb79-099e-4a20-bd7b-114cc9fd7670.png">
+<img width="523" alt="image" src="https://user-images.githubusercontent.com/52627259/227886161-86e48e5a-99e1-4165-a045-c4c459030ded.png">
+
+
+
+
+
 
 
 
