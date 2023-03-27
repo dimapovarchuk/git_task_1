@@ -50,12 +50,39 @@ touch .gitignore
 
 ### Changed index.html. Added images source inside it. Commited.
 <img width="461" alt="image" src="https://user-images.githubusercontent.com/52627259/227885027-911abb79-099e-4a20-bd7b-114cc9fd7670.png">
-<img width="523" alt="image" src="https://user-images.githubusercontent.com/52627259/227886161-86e48e5a-99e1-4165-a045-c4c459030ded.png">
+<img width="578" alt="image" src="https://user-images.githubusercontent.com/52627259/227999701-e9bb1547-b877-4a8c-9cb6-6509bedf7ce1.png">
+
+### Come back to develop branch
+<img width="458" alt="image" src="https://user-images.githubusercontent.com/52627259/228008957-80930239-39cb-418a-b926-fe1718ec0909.png">
+
+### Created branch with name “styles”. Checkouted on it. Added styles folder with styles source inside it. Commited.
+<img width="443" alt="image" src="https://user-images.githubusercontent.com/52627259/228016102-47f1c4d4-052e-4f30-b660-4d222b2b859d.png">
+
+### Changed index.html. Commited
+<img width="529" alt="image" src="https://user-images.githubusercontent.com/52627259/228016485-f328851c-7130-469c-927c-6042d2b4eaa9.png">
+
+### Come back to develop branch
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/52627259/228016754-2a7b91e9-6d62-422b-9217-bc613cdaf36a.png">
+
+### Merged branches into develop using git merge command. Resolved conflicts.
+### Merged “styles” into “develop”
+<img width="506" alt="image" src="https://user-images.githubusercontent.com/52627259/228021603-40b9c244-8f6e-4aee-a07d-66d79fd4e34e.png">
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/52627259/228021707-8aba1ff5-cc89-4ae5-b717-d684b074a526.png">
+### Merged “images” into “develop”
+<img width="440" alt="image" src="https://user-images.githubusercontent.com/52627259/228021315-17b44a1d-8b57-4874-8788-b5ffb5d1dc16.png">
+
+### Merged develop into master
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/52627259/228022134-a1b1fe44-f37c-400d-be87-e0e45529fb1f.png">
+
+
+
+ 
 
 
 
 
-sdfdsf
+
+
 
 
 
