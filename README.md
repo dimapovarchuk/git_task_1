@@ -66,14 +66,14 @@ touch .gitignore
 
 ### Merged branches into develop using git merge command. Resolved conflicts.
 ### Merged “styles” into “develop”
-<img width="506" alt="image" src="https://user-images.githubusercontent.com/52627259/228021603-40b9c244-8f6e-4aee-a07d-66d79fd4e34e.png">
-<img width="472" alt="image" src="https://user-images.githubusercontent.com/52627259/228021707-8aba1ff5-cc89-4ae5-b717-d684b074a526.png">
-
+<img width="457" alt="image" src="https://user-images.githubusercontent.com/52627259/228042364-80005f79-02b4-42eb-8e71-263dbb816f5d.png">
+ 
 ### Merged “images” into “develop”
-<img width="440" alt="image" src="https://user-images.githubusercontent.com/52627259/228021315-17b44a1d-8b57-4874-8788-b5ffb5d1dc16.png">
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/52627259/228043772-019fa71b-3125-40ed-b589-2b7e5c9d56da.png">
 
 ### Merged develop into master
-<img width="428" alt="image" src="https://user-images.githubusercontent.com/52627259/228022134-a1b1fe44-f37c-400d-be87-e0e45529fb1f.png">
+<img width="482" alt="image" src="https://user-images.githubusercontent.com/52627259/228042578-353a001e-9baa-4cfb-97a0-9ed4cfd23000.png">
+
 
 
 
