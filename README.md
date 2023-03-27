@@ -68,6 +68,7 @@ touch .gitignore
 ### Merged “styles” into “develop”
 <img width="506" alt="image" src="https://user-images.githubusercontent.com/52627259/228021603-40b9c244-8f6e-4aee-a07d-66d79fd4e34e.png">
 <img width="472" alt="image" src="https://user-images.githubusercontent.com/52627259/228021707-8aba1ff5-cc89-4ae5-b717-d684b074a526.png">
+
 ### Merged “images” into “develop”
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/52627259/228021315-17b44a1d-8b57-4874-8788-b5ffb5d1dc16.png">
 
